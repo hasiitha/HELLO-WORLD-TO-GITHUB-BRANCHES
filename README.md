@@ -1,2 +1,3 @@
 # Hello-world
-Hello world reporsitory created on 30 th june 2020
+Printf("Hello my name is hasitha bandara attanayake");
+printf("Im from kandy and my school is dharmaraja college kandy");
